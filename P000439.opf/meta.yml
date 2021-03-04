@@ -1,16 +1,17 @@
-id: opecha:P000439
+id: P000439
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS19000
   title: ཤར་འཛམ་ཐང་པ་ངག་དབང་བློ་གྲོས་གྲགས་པའི་རྣམ་ཐར།
-  volume:
+  author: ''
+  volumes:
     9df0a794cd374ff38bb3b00ec18f9679:
       image_group_id: I8LS19002
       title: Volume 1 of shar 'dzam thang pa ngag dbang blo gros grags pa'i rnam thar/_jo
         nang dpe tshogs/_90
       volume_number: 1
       total_pages: 364
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཤར་འཛམ་ཐང་པ་ངག་དབང་བློ་གྲོས་གྲགས་པའི་རྣམ་ཐར།
   author: ''
